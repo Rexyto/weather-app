@@ -8,11 +8,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
 
 **Una aplicación meteorológica elegante y moderna con temas dinámicos según la estación**
 
-[🚀 Demo](#) | [📖 Documentación](#features) | [🤝 Contribuir](#contributing) | [📝 License](#license)
+[🚀 Demo](#) | [📖 Documentación](#features) | [🤝 Contribuir](#contributing)
 
 </div>
 
@@ -223,10 +223,6 @@ interface WeatherData {
 - 📱 iOS ≥ 12
 - 🤖 Android ≥ 7
 - 💻 Desktop todos
-
-## 📄 Licencia
-
-MIT © [Tu Nombre]
 
 ---
 
